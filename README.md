@@ -4,11 +4,20 @@ Space Force é um mini-game desenvolvido através de conceitos iniciais de apren
 utilizando-se da biblioteca Pygame.
 
 *Conteúdo:
- O jogo é direcionado a classe infantil, com a temática espacial, direcionado ao desenvolvimento de reflexos motores, voltados para percepção visual e resposta motora,
-visto o jogo propor um sistema de níveis o qual vai aumentando gradualmente a dificuldade, não havendo fases, somente buscando a cada partida alcançar uma maior pontuação.
+ O jogo é direcionado a classe infantil, com a temática espacial, onde uma nave viaja a galáxia com o objetivo de reestabelecer a órbita de uma das luas do planete ARRTE, evitando de colidir com os asteroides os quais surgem de maneira randômica. Um dos principais objetivos, além de demonstrar conhecimentos básicos na linguagem e se divertir, foi desenvolver uma maneira de estimular os reflexos motores, voltados para percepção visual e resposta motora do público alvo, visto o jogo propor um sistema de níveis o qual vai aumentando gradualmente a dificuldade, não havendo fases, somente buscando a cada partida alcançar uma maior pontuação.
  
-o grau de dificuldade com o passar do tempo. 
+ *Controles:
+ AS teclas utilizadas para movimentação da nave são:
+ Seta para cima;
+ Seta para baixo;
+ Seta para a direita;
+ Seta para a esquerda;
+ 
 
+*Arquivos:
+banco.txt. Contém o log dos cadastros dos jogadores;
+assets.Contém os arquivos de mpidia utilizados, tando de imagens quanto sonoros;
+ 
 Características:
 
 *Partes Desenvolvidas:
